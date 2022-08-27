@@ -1,4 +1,7 @@
+def welcometoF1(city):
+    print(f'Welcome to Formula One from {city}')
+
 def main():
-    print("Welcome to Formula One!")
+    welcometoF1('TX')
 
 main()
